@@ -13,6 +13,6 @@ Simple and modern UI
 
 Technologies Used
 
-HTML5 – structure of web pages
-CSS3 – styling and layout
+HTML – structure of web pages
+CSS – styling and layout
 JavaScript – dynamic and interactive features
